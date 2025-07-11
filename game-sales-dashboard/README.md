@@ -12,7 +12,7 @@ This Power BI dashboard analyzes global video game sales by platforms, region, g
   --DAX
   --CSV Dataset ('Game sales.csv')
 ## Screenshot
-  ![Game Dashboard](Game%20Dashboard.png)
+   ![Game sales dashboard](Game%20Dashboard.png)
 
 
 
