@@ -1,4 +1,4 @@
-#Game Sales Dashboard
+## Game Sales Dashboard
 
 This Power BI dashboard analyzes global video game sales by platforms, region, genre and publisher.
 ## Features
